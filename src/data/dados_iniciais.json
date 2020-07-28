@@ -8,6 +8,10 @@
       },
       "videos": [
         {
+          "titulo": "Os Gols Mais HUMILHANTES do Futebol",
+          "url": "https://www.youtube.com/watch?v=dMr2LePQ0fQ"
+        },        
+        {
           "titulo": "Most Humiliating Goals Ever",
           "url": "https://www.youtube.com/watch?v=Rz1uru_SfpA"
         },        
@@ -26,6 +30,10 @@
         {
           "titulo": "20 Barcelona Moments",
           "url": "https://www.youtube.com/watch?v=B91NtO3vwFs"
+        },
+        {
+          "titulo": "15 Vezes que o Lionel Messi Impressionou o Mundo Inteiro!",
+          "url": "https://www.youtube.com/watch?v=f0affHMRzY4"
         }
       ]
     },
@@ -51,6 +59,14 @@
         {
           "titulo": "The Most Incredible Buzzer Beaters in NBA History",
           "url": "https://www.youtube.com/watch?v=QGGLH1EtA9Y"
+        },
+        {
+          "titulo": "Os Lances Mais humilhantes da NBA ! Atual temporada 2018/2019 !",
+          "url": "https://www.youtube.com/watch?v=tyJydZt0uXs"
+        },
+        {
+          "titulo": "Top 10 Crossovers(Dribles) da temporada regular da NBA 2012/2013.",
+          "url": "https://www.youtube.com/watch?v=Y0s34VoSM0I"
         }
       ]
     },
@@ -76,28 +92,47 @@
         {
           "titulo": "Surfers Catch Unbelievable Waves at The Wedge",
           "url": "https://www.youtube.com/watch?v=XnMZ-T86GP4"
+        },
+        {
+          "titulo": "Laird Hamilton - The greatest big wave surfer to have lived?",
+          "url": "https://www.youtube.com/watch?v=s0Pw7vKtqpo"
+        },
+        {
+          "titulo": "THE RIGHT - BIGGEST AND CRAZIEST",
+          "url": "https://www.youtube.com/watch?v=UfrFCtnRnYo"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Tênis",
       "cor": "orange",
+      "link_extra": {
+        "text": "Tennis - Tenis"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Gustavo Kuerten - Guga Best Points",
+          "url": "https://www.youtube.com/watch?v=wE9651IKoyQ"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "The Best Plays of US Open 2019",
+          "url": "https://www.youtube.com/watch?v=Bc588DD6xmI"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Roger Federer • Best Tricks & Skills",
+          "url": "https://www.youtube.com/watch?v=ScKohNh-1E8"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "The Best Game Ever? Murray v Federer",
+          "url": "https://www.youtube.com/watch?v=CGRzfUccmNE"
+        },
+        {
+          "titulo": "O jogo de tênis mais engraçado de todos",
+          "url": "https://www.youtube.com/watch?v=LjavVEOkB6Q"
+        },
+        {
+          "titulo": "Roger Federer 10 belas jogadas de genio",
+          "url": "https://www.youtube.com/watch?v=jv12UA4EHmw"
         }
       ]
     },

@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Best Football Plays"}
+        videoDescription={"Melhores momentos do Futebol"}
       />  
 
       <Carousel
@@ -27,6 +27,10 @@ function App() {
 
       <Carousel
         category={dadosIniciais.categorias[2]}
+      />
+
+      <Carousel
+        category={dadosIniciais.categorias[3]}
       />
 
       <Footer />
